@@ -1,0 +1,10 @@
+{
+  "description": "Streamline homestay management and room bookings with a modern, responsive platform designed for hosts and travelers, enhancing user experience and efficiency.",
+  "robots": {
+    "index": false
+  },
+  "accessibility": {
+    "addBypassLinks": false,
+    "ignoreReducedMotion": false
+  }
+}
